@@ -1,0 +1,41 @@
+/*
+Theme Name: ###themename_long###
+Theme URI: https://www.###site###.com/
+Author: ###author###
+Author URI: https://www.###site###.com
+Description: ###description###
+Version: 1.0
+License: GNU General Public License v2 or later
+License URI: http://www.gnu.org/licenses/gpl-2.0.html
+Tags: ###tags###
+Text Domain: ###themename###
+
+This theme, like WordPress, is licensed under the GPL.
+Use it to make something cool, have fun, and share what you've learned with others.
+*/
+
+body {
+	width: 100%;
+}
+
+header {
+	background-color: yellow;
+	width: 100%
+}
+
+#primary {
+	width: 1024px;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+footer {
+	background-color: lightblue;
+	width: 100%
+}
+
+.footerwidget{
+	width: 33%;
+	float: left;
+	display: block;
+}
